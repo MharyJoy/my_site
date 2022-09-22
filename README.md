@@ -1,3 +1,3 @@
 # my_site
 
-Introduction to my site . . .
+Intro to my site . . .
