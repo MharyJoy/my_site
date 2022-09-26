@@ -2,4 +2,4 @@
 
 Intro to my site . . .
 
-Bio/Interest
+Bio/Interest/Education
