@@ -2,10 +2,10 @@
 
 Intro to my site
 
-Bio 
+Bio
 Interest
 Education
 Experience 
 
 
-test
+
