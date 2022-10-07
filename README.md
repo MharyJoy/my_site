@@ -1,6 +1,6 @@
 # my_site
 
-Intro to my site using HTML, CSS
+Intro to my site using HTML, CSS Javascript
 
 Bio
 Interest
