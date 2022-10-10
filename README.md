@@ -7,6 +7,7 @@ Interest
 Education
 Experience 
 
+Personal Photo
 
 
 
