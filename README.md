@@ -10,4 +10,5 @@ Experience
 Personal Photo
 Personal Website
 
+Contact Info
 
