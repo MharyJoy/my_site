@@ -11,5 +11,4 @@ Personal Photo
 Personal Website
 
 Contact Info
-Email
-
+Email Address
