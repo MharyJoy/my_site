@@ -13,7 +13,6 @@ Personal Website
 Contact Info
 Email Address
 Favorite
-Events
-Merch 
+
 
 
